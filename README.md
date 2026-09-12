@@ -243,3 +243,6 @@ This repository serves as the official landing page for Microsoft Edge. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Microsoft Edge today!**
+
+---
+**Last updated:** 2026-09-12 21:09:26 UTC
