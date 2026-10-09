@@ -245,4 +245,4 @@ This repository serves as the official landing page for Microsoft Edge. The soft
 **Get the most recent version of Microsoft Edge today!**
 
 ---
-**Last updated:** 2026-10-09 09:44:56 UTC
+**Last updated:** 2026-10-09 16:40:49 UTC
